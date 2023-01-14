@@ -3,7 +3,7 @@ from constants import *
 import random
 import globals
 
-#Tamano del sprite original del enemigo, si usas otro, pon aqui su tamano
+#Tamano del sprite original del enemigo, si usas otro, pon aqui su tamano....
 ORIGINAL_SIZE=(60,154)
 MIN_WIDTH = 15
 MAX_WIDTH = 25
